@@ -6,4 +6,4 @@ an application called Note Taker that can be used to write and save notes. This 
 ![image](https://user-images.githubusercontent.com/8552152/172083948-8a5aaead-d117-43f3-b685-364c50c595a0.png)
 
 # Deployment Link
-https://kcastil7.github.io/miniature-eureka/
+[https://kcastil7.github.io/miniature-eureka/](https://kevins-note-taker-app.herokuapp.com/)
